@@ -61,4 +61,3 @@ below(circle(30, "solid", "blue"), rectangle(80, 60, "solid", "yellow"))
 beside(circle(30, "solid", "blue"), rectangle(80, 60, "solid", "yellow"))
 
 
-#Class excercise
